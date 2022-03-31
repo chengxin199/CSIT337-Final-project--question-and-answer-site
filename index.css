@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+li{
+    list-style:none;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+
+
+.logbox{
+     width:200px;
+     height:200px;
+     background-color:aqua;
+}

@@ -4,10 +4,20 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Final Project</title>
+    <link rel="stylesheet" href="index.css">
 </head>
 <body>
-    <a href="">login</a>
-    <a href="">register</a>
+<div class="header wrapper">
+    <h3>Symbol</h3>
+    <ul>
+    <a href="">Home</a>
+    <a href="">Null</a>
+    <a href="">Null</a>
+    <input type="text">
+    <a href="">Log in</a>
+</ul>
+
+</div>
 </body>
 </html>
