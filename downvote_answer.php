@@ -72,17 +72,4 @@ if (isset($answer_id)) {
         exit;
     }
 
-    // if ($row['vote'] == -1) {
-    //     $newVotes = $votes + 2;
-
-    //     $statement = "UPDATE answer_votes set vote = 1 WHERE answer_id=$answer_id AND voter=$user_id";
-    //     $pdo->query($statement);
-    // }
-
-    //     $statement = "UPDATE answers set votes = $newVotes WHERE answer_id=$answer_id";
-    //     $pdo->query($statement);
-
-    //     header("Location: question.php?id=$question_id");
-    //     exit;
-
 }
